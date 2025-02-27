@@ -1,0 +1,1 @@
+material and exercises from the data intensive applications university course 
